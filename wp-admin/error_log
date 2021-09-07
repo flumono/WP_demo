@@ -1,0 +1,1 @@
+[19-Jan-2021 12:32:34 UTC] PHP Fatal error:  Cannot redeclare jvdental_com_ua_widgets_init() (previously declared in /home/yolker/jvdental.b2bweb.dp.ua/wp-content/themes/jvdental/functions.php:130) in /home/yolker/jvdental.b2bweb.dp.ua/wp-content/themes/jvdental/functions.php on line 156
